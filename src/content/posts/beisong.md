@@ -5,11 +5,9 @@ pinned: true
 description: 不看等嗡吧
 tags: [必读]
 category: Post
-licenseName: "Unlicensed"
 author: Zuolin Zhang
-sourceLink: "#"
 draft: false
 ---
 
-# <center>**不要和==日本人==开战**</center>
+# <center>**不要和<span style="color:red">日本人</span>开战**</center>
 ![必胜](images/bys.jpg)
