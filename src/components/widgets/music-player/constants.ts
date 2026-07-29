@@ -13,6 +13,14 @@ export const LOCAL_PLAYLIST: Song[] = [
 		url: "assets/music/url/allah.mp3",
 		duration: 0,
 	},
+	{
+		id: 2,
+		title: "约德尔省歌",
+		artist: "银翼老广",
+		cover: "assets/music/cover/yuedeer.jpg",
+		url: "assets/music/url/yuedeer.mp3",
+		duration: 0,
+	},
 ];
 
 export const DEFAULT_SONG: Song = {
