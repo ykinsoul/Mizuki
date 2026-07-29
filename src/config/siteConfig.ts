@@ -152,7 +152,7 @@ export const siteConfig: SiteConfig = {
 			switchable: true,
 
 			subtitle: [
-				"建造你自己",
+				"建造你自己，，，",
 				"你们平时按门铃像你妈死了亲爹一样按吗",
 				"我爆炒你们马",
 			],
