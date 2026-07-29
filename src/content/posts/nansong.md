@@ -1,5 +1,5 @@
 ---
-title: 北宋游玩提醒
+title: 南宋游玩提醒
 published: 2026-07-29
 pinned: true
 description: 不看等嗡吧
