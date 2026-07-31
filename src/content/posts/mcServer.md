@@ -11,7 +11,7 @@ draft: false
 
 # FTAS服务器我也不知道第几周目更新日志
 ***
-<h2>2026/07/31更新</h2>
+## 2026/07/31更新
 <del>不出意外这应该是本月最后一次更新</del>
 
 * 更新了 [绝地潜兵2枪包](https://www.curseforge.com/minecraft/customization/tacz-helldivers-escalation-of-freedom)；
@@ -60,7 +60,7 @@ draft: false
 :::
 
 ***
-<h2>2026/07/30更新</h2>
+## 2026/07/30更新
 
 * 整合了之前的版本更新内容；
 * 现在整合包支持自动在线更新了，**不再需要每次从群文件更新**，好耶！
