@@ -55,7 +55,9 @@ draft: false
   * 聪明的读者看到附属 Mod 的名字应该就猜到了，女仆现在也可以做烘焙啦！
 <br>
 * 加入了 [沉浸式奏乐](https://www.mcmod.cn/class/11850.html) Mod，现在可以在MC里用乐器演奏木柜子乐曲了（捏鼻
-<div align=center> <img src="images\trueMusic.jpg" width=30%></div>
+:::grid{columns="1" aspect="1/1"}
+![真正的音乐！](images/trueMusic.jpg)
+:::
 
 ***
 <h2>2026/07/30更新</h2>
