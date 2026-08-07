@@ -23,7 +23,7 @@ _"早上好夜之城！昨天的 UUID 乐透，最后结果是满打满算的整
 
 - 没了。
 
-:::grid{columns="2" aspect="1/1}
+:::grid{columns="2" aspect="1/1"}
 ![总而言之先放四包神秘零食在这](images/greenGuaiguai.jpg)
 
 ![然后赞美万机之神欧姆弥赛亚](images/guaiguai.gif)
