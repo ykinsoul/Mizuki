@@ -13,13 +13,31 @@ draft: false
 
 ---
 
+## 2026/08/08 更新
+
+依旧小更新：
+
+- 加入了 [永无止境：载具](https://www.mcmod.cn/class/24495.html) Mod 的附属包：[龙之崛起](https://www.curseforge.com/minecraft/customization/limitless-vehicle-dragonrise)。
+  - 该整合包大部分内容仍处于开发状态中，仅数辆载具可实际合成。
+  - 好消息是，开发中载具已有模型，可由创造模式调出，似乎也能正常驾驶。
+  - 坏消息是，这个载具 Mod 的所有附属都加上了（是的，就 2 个），让我们默哀一普朗克时间。
+    <br>
+- 更新了 [永恒枪械工坊：零（TAC:Z)](https://www.mcmod.cn/class/14980.html) Mod 的附属包： [42 Labs](https://www.bilibili.com/video/BV1dGuJ6MEsZ) 。
+  - 为大狗新增了几个弱智配件，更适合 FTAS 的平均智商！
+    - 尽管官方在新版本为大狗新增了合成途径，但鉴于狼刷怪蛋在生存模式无法获得，故合成公式仍沿用先前手搓的自研合成配方。
+  - 其余更新内容请见视频，反正也不是饺子醋。- 你知道吗，蓝字都是可以点的，视频链接就在其中。
+    <br>
+- 没了。又混完一期更新，耶！
+
+---
+
 ## 2026/08/07 更新
 
 _"早上好夜之城！昨天的 UUID 乐透，最后结果是满打满算的整整三十个！..."_
 
 本次更新带来了全新载具<del>和更多的键位冲突灾难</del>：
 
-- 加入了[永无止境：载具](https://www.mcmod.cn/class/24495.html) Mod 及其附属包：[TankAssault](https://www.curseforge.com/minecraft/customization/limitless-vehicle-tankassault)。
+- 加入了 [永无止境：载具](https://www.mcmod.cn/class/24495.html) Mod 及其附属包：[TankAssault](https://www.curseforge.com/minecraft/customization/limitless-vehicle-tankassault)。
 
 - 没了。
 
