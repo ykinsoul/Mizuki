@@ -20,26 +20,18 @@ draft: false
 - 新增与更新内容：
   - 加入了 [机械动力](https://www.mcmod.cn/class/2021.html) Mod 的附属 Mod： [机械动力：创想附加](https://www.mcmod.cn/class/3437.html) 与 [机械动力：物品附加](https://www.mcmod.cn/class/3779.html)；
     - 创想附加新增了与沉浸工程联动的元件，可实现应力与FE之间的转换；物品附加则新增了一些工具。
-
       <br/>
-
   - 加入了 <del>恐虐</del>[冠军/强敌再续](https://www.mcmod.cn/class/15862.html) Mod;
     - 现在，怪物刷新时有一定概率生成为精英怪，具有更强的属性和特殊能力。
-
       <br>
-
   - 加入了 [永恒之门](https://www.mcmod.cn/class/7522.html) Mod，及其前置 Mod：[Apothic Attributes](https://www.mcmod.cn/class/12036.html) 和 [Placebo](https://www.mcmod.cn/class/1023.html)。
     - 永恒之门 Mod 允许合成生成大量怪物的传送门，完成挑战并获取奖励。
     - 也包含一个无尽挑战传送门。
     - <b>原 Mod 的汉化并不完全，因此本次更新亦附带了一个补充汉化资源包，使用方式请见下文。</b>
-
       <br>
-
   - 更新了 [机械动力：附魔工业](https://www.mcmod.cn/class/7892.html) Mod。
     - 修复了烈焰人锻造台不接受装备作为附魔模板的 Bug。
-
       <br>
-
 - <b>汉化资源包使用方法</b>
   1. 资源包会随着更新自动下载，只需启动游戏。
   2. 在主菜单界面，点击`选项`-`资源包...`。
