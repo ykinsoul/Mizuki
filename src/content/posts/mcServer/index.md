@@ -52,7 +52,7 @@ draft: false
   今日晚间或许还会有一次更新，`TrueUUID`的作者已初步完成 Bug 修复，目前尚在测试中，暂未发布新版本，等待，并心怀希望吧。
   :::grid{columns="1" aspect="1/1"}
 
-  ![等待作者更新的我 be like:](images/kuaisu.jpg)
+  ![等待作者更新的我 be like:](./images/kuaisu.jpg)
 
   :::
 
@@ -95,7 +95,7 @@ draft: false
   - 对于没有装备披风的玩家，其背后不会再显示黄色一串英文的申必披风了。
 
 <br>另外，还有一个好消息：`TrueUUID` 的作者已对 issue 作出反馈，不出意外的话，近期应该就可以让正版软件受害者们解脱了...吧？
-![求放过](images/qiufangguo.jpg)
+![求放过](./images/qiufangguo.jpg)
 
 ---
 
@@ -129,9 +129,9 @@ _"早上好夜之城！昨天的 UUID 乐透，最后结果是满打满算的整
 - 没了。
 
 :::grid{columns="2" aspect="1/1"}
-![总而言之先放四包神秘零食在这](images/greenGuaiguai.jpg)
+![总而言之先放四包神秘零食在这](./images/greenGuaiguai.jpg)
 
-![然后赞美万机之神欧姆弥赛亚](images/guaiguai.gif)
+![然后赞美万机之神欧姆弥赛亚](./images/guaiguai.gif)
 :::
 
 ---
@@ -149,7 +149,7 @@ _"早上好夜之城！昨天的 UUID 乐透，最后结果是满打满算的整
 然而在 `2026/08/06` 问题再次爆发，我们发现连离线账户和皮肤站账户也受到了此次 UUID 混乱影响，出现了鉴权失败问题。为遏制混乱，彻底平息风波，我们不得已将服务器数据回滚至 `2026/08/05 05:01 AM`。目前服务器已恢复平稳运行，皮肤站用户和离线用户应该可以正常游玩，仅正版用户的鉴权失败问题仍然存在，我们已向 `TrueUUID` 的作者提交了 issue，期望尽快修复这一问题。<br>
 针对此次风波，我们得到的唯一心得是，<span style="color:red;font-size:30px">永远不要再安装 TrueUUID 了</span><br>
 :::grid{columns="1" aspect="1/1"}
-![红豆泥私密马赛](images/ketou.gif)
+![红豆泥私密马赛](./images/ketou.gif)
 :::
 
 ---
@@ -176,9 +176,9 @@ _"早上好夜之城！昨天的 UUID 乐透，最后结果是满打满算的整
     <br>
 
 :::grid{columns="2" aspect="1/1"}
-![修炸服我就这样](images/guaiguai.jpg)
+![修炸服我就这样](./images/guaiguai.jpg)
 
-![骗你的没这么慢](images/guaiguai.gif)
+![骗你的没这么慢](./images/guaiguai.gif)
 :::
 
 ---
@@ -231,7 +231,7 @@ _"早上好夜之城！昨天的 UUID 乐透，最后结果是满打满算的整
     <br>
 - 加入了 [沉浸式奏乐](https://www.mcmod.cn/class/11850.html) Mod，现在可以在MC里用乐器演奏木柜子乐曲了（捏鼻
   :::grid{columns="1" aspect="1/1"}
-  ![真正的音乐！](images/trueMusic.jpg)
+  ![真正的音乐！](./images/trueMusic.jpg)
   :::
 
 ---
