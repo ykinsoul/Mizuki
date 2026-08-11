@@ -40,12 +40,12 @@ draft: false
       :::grid{columns="4" aspect="16/9"}
       ![点击左侧的“选项”按钮](images/tutorial/1.png)
 
-  ![然后点击“资源包...”](images/tutorial/2.png)
+      ![然后点击“资源包...”](images/tutorial/2.png)
 
-  ![将滑鼠移动至该资源包的logo之上，单击箭头](images/tutorial/3.png)
+      ![将滑鼠移动至该资源包的logo之上，单击箭头](images/tutorial/3.png)
 
-  ![确保其在“已选”列表中，大功告成！可以游玩伺服器了](images/tutorial/4.png)
-  :::
+      ![确保其在“已选”列表中，大功告成！可以游玩伺服器了](images/tutorial/4.png)
+      :::
 
     <br>
 
