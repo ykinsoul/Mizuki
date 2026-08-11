@@ -38,13 +38,13 @@ draft: false
   3.  在资源包界面找到`GatewaysToEternity-1.20.1-4.2.6补充汉化...`，将鼠标移至其左侧的蓝色 logo 上，可见一个向右的箭头，点击该箭头，确保补充包被移动至`已选`列表中。
   4.  点击完成即可。
       :::grid{columns="4" aspect="16/9"}
-      ![点击左侧的“选项”按钮](images/tutorial/1.png)
+      ![点击左侧的“选项”按钮](./images/tutorial/1.png)
 
-      ![然后点击“资源包...”](images/tutorial/2.png)
+      ![然后点击“资源包...”](./images/tutorial/2.png)
 
-      ![将滑鼠移动至该资源包的logo之上，单击箭头](images/tutorial/3.png)
+      ![将滑鼠移动至该资源包的logo之上，单击箭头](./images/tutorial/3.png)
 
-      ![确保其在“已选”列表中，大功告成！可以游玩伺服器了](images/tutorial/4.png)
+      ![确保其在“已选”列表中，大功告成！可以游玩伺服器了](./images/tutorial/4.png)
       :::
 
     <br>
