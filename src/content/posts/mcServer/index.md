@@ -38,12 +38,13 @@ draft: false
 <b>Minecraft 原版中的玻璃，从来都不会自动连接材质，它们本来应该长这个样子：</b>
 :::grid{columns="2"}
 ![玻璃原本的样子，不难注意到玻璃方块之间是有边框的](/images/mcServer/originalGlass.jpg)
-![我们看到的玻璃，方块之间不再有边框](/images/mcServer/newGlass.webp)
+![我们看到的玻璃，同色玻璃之间不再有边框](/images/mcServer/newGlass.webp)
 :::
 那么，为什么会有这样的区别呢？<br>
-在 Minecraft 低版本的时代，想必都听说过 `高清修复(OptiFine)` ，它的主要功能是为 Minecraft 提供光影支持、更详细的画面设置、增加高清纹理和自定义纹理支持等等，其中就包括<b>为玻璃加入了自动连接材质</b>功能。<br>
+在 Minecraft 低版本的时代，想必都听说过 `高清修复(OptiFine)` ，它的主要功能是为 Minecraft 提供光影支持、更详细的画面设置、增加高清纹理和自定义纹理支持等等，其中就包括<b>为玻璃加入自动连接材质</b>功能。<br>
 然而，随着时间流逝<del>史山堆积</del>，高清修复已不再能满足玩家们的需求，其愈发臃肿的体量也对游戏性能造成了负面影响。在这一背景下，以 [钠](https://www.mcmod.cn/class/2785.html) 为代表的全新渲染模组逐渐取代了高清修复的地位。但钠并不具备自动连接玻璃材质的功能，因此需要 [Continuity](https://www.mcmod.cn/class/4906.html) 这种 Mod 来让玻璃再次连接。<br>
-不过，Continuity 仅支持 Fabric 模组加载器，而我们所使用的是 Forge 模组加载器，二者的 Mod 并不互通，为此，就需要使用 [信雅互联](https://www.mcmod.cn/class/11627.html) 和 [Forgified Fabric API](https://www.mcmod.cn/class/11464.html) 来让 Fabric 的模组可以在 Forge 上运行。此举势必造成一定性能和稳定性影响，但也别无他法。直至 [Constancy](https://www.mcmod.cn/class/25474.html) 出现了，它其实是上文提到的 Continuity 的一个分支，但它可以在 Forge 加载器上原生运行，这意味着我们可以摆脱掉 Fabric 带来的一系列沉重包袱了。经体感测试，删除这几个模组后游戏加载速度又得到了大幅提升。与此同时一并加入的 [Blueprint Texture Issue Fix](https://www.mcmod.cn/class/17831.html) 则修复了一个玻璃有时无法连接纹理的 Bug，现在，玻璃可以完美互相连接而不必保留边框了。<br>
+不过，Continuity 仅支持 Fabric 模组加载器，而我们所使用的是 Forge 模组加载器，二者的 Mod 并不互通。为此，就需要使用 [信雅互联](https://www.mcmod.cn/class/11627.html) 和 [Forgified Fabric API](https://www.mcmod.cn/class/11464.html) 来让 Fabric 的模组可以在 Forge 上运行。此举势必造成一定性能和稳定性影响，但也别无他法。直至 [Constancy](https://www.mcmod.cn/class/25474.html) 出现了，它其实是上文提到的 Continuity 的一个分支，但它可以在 Forge 加载器上原生运行，这意味着我们可以摆脱掉 Fabric 带来的一系列沉重包袱了。<b>经体感测试，删除这几个模组后游戏加载速度又得到了大幅提升。</b><br>
+与此同时一并加入的 [Blueprint Texture Issue Fix](https://www.mcmod.cn/class/17831.html) 则修复了一个玻璃有时无法连接纹理的 Bug，现在，玻璃可以完美互相连接而不必保留边框了。<br>
 :::grid{columns="1"}
 ![如何快速理解模组加载器之间的区别](/images/mcServer/forge.png)
 :::
