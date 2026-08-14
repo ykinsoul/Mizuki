@@ -13,6 +13,25 @@ draft: false
 
 ---
 
+## 2026/08/14 更新
+
+依旧生活质量更新：
+
+- 再一次，更新了 [机械动力：附魔工业](https://www.mcmod.cn/class/7892.html) Mod；
+  - 现在，附魔模板和超越附魔模板会显示其包含的附魔魔咒了。
+- 调整了 [Collector's Reap](https://www.mcmod.cn/class/8808.html) Mod；
+  - 之前未汉化的部分已添加汉化，让我们说中文！
+    - 是的，这个 Mod 甚至没有一个官方译名。
+  - 现在，青柠树和石榴树<b><span style="color:red;">不再</span></b>需要蜜蜂授粉，即可结果了。
+- 调整了 [机械动力：喷气背包](https://www.mcmod.cn/class/7338.html) Mod。
+  - 现在，喷气背包悬浮模式下<b><span style="color:red;">不再</span></b>缓慢下落了。
+
+:::grid{columns="1"}
+![你在等什么，每次结尾都会有的表情包吗？](/images/mcServer/meiyou.jpg)
+:::
+
+---
+
 ## 2026/08/12 更新
 
 本次更新仍为生活质量更新，无实际新增内容，修复了一些 Bug，并尝试改善游戏体验：
@@ -21,8 +40,8 @@ draft: false
   - 更新了 [机械动力：附魔工业](https://www.mcmod.cn/class/7892.html) Mod 及其前置 Mod：[机械动力：龙+](https://www.mcmod.cn/class/19299.html);
     - 现在，锻造模板的名字恢复正常显示了。
   - 终于更新了 [TrueUUID](https://www.mcmod.cn/class/21953.html)，可喜可贺可喜可贺；
-    - 我们还没有实际测试过，因为有问题的玩家暂时都不在线。
-    - 不过，据 issue 内其他有相同问题的用户反馈，新版本已解决问题。耶拉冈德与欧姆弥赛亚在上，可千万别再出什么乱子了。
+    - <del>我们还没有实际测试过，因为有问题的玩家暂时都不在线。</del>
+    - <del>不过，据 issue 内其他有相同问题的用户反馈，新版本已解决问题。耶拉冈德与欧姆弥赛亚在上，可千万别再出什么乱子了。</del>问题终于解决了，真他民主的爽！
   - 加入了 [Blueprint Texture Issue Fix](https://www.mcmod.cn/class/17831.html) Mod 和 [Constancy](https://www.mcmod.cn/class/25474.html) Mod。
     - 这两个 Mod 有什么用，请见下文。
       <br>
