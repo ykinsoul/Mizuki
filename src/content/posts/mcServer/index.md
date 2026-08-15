@@ -23,7 +23,7 @@ draft: false
 - 没了。
 
 如何更改击杀图标：
-:::{grid columns="4"}
+:::grid{columns="4"}
 ![在主界面点击“模组”按钮，在游戏中也可按ESC中的模组按钮](/images/mcServer/tutorial/g1.png)
 
 ![在模组界面中下拉，找到“GD556一串英文”，点击它，然后点击右侧的“配置”按钮](/images/mcServer/tutorial/g2.png)
@@ -33,7 +33,7 @@ draft: false
 ![将滑鼠移到荧幕左侧，在滑出的界面中选择你中意的风格，点击其右侧的数字即可。不要忘记按“保存并退出”喔！](/images/mcServer/tutorial/g4.png)
 :::
 
-:::grid {columns="1"}
+:::grid{columns="1"}
 ![不知道该发什么表情包了，就放个小鹈鹕在这吧](/images/mcServer/plk.gif)
 :::
 
