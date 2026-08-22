@@ -21,9 +21,7 @@ draft: false
   - 顾名思义，现在允许保留中文输入法的情况下正常游玩，并无缝在操作与打字之间切换。
   - 无需配置，开箱即用。
 
-:::grid{columns="1"}
-![正在生成一张合适的表情包，请稍等...](/images/mcServer/thinking.gif)
-:::
+![thinking w-100%](/images/mcServer/thinking.gif "正在生成一张合适的表情包，请稍等...")
 
 ---
 
